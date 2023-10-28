@@ -1,7 +1,7 @@
 import React from "react";
 import NuevoPresupuesto from "./NuevoPresupuesto";
 import ControlPresupuesto from "./ControlPresupuesto";
-import Modal from "./Modal";
+
 const Header = ({
   presupuesto,
   setPresupuesto,
